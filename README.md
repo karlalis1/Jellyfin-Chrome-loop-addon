@@ -4,6 +4,7 @@ Automatically loops all videos on Jellyfin (and any other website) with a toggle
 
 ## Features
 
+- **SHITY ASS ADDON**: IT LOOPS ALL VIDEOS NOT ONLY JELLYFIN THIS ADDON IS SHIT DO NOT DOWNLOAD
 - **Auto-loop**: All videos automatically play in loop mode
 - **Toggle Switch**: Easy on/off control via popup
 - **Persistent State**: Your preference is saved across browser sessions
